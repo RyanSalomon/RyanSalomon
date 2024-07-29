@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/ryan-salomon22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As a Junior Cybersecurity Analyst, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools. 
+As a Junior Cybersecurity Analyst, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools.
 
 ## Objective
 
