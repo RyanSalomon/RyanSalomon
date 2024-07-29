@@ -2,12 +2,11 @@
 <a href="https://linkedin.com/in/ryan-salomon22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As a junior cybersecurity analyst, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools. 
+As a Junior Cybersecurity Analyst, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools. 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or similar.
-
+My journey in computer science has ignited a strong passion for cybersecurity, driving me to pursue a career as a Tier 1 Analyst or a similar role within a Security Operations Center (SOC).
 ## Skills
 
 | Skill                                         | Associated Project         |
