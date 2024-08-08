@@ -12,7 +12,7 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Splunk,Elastic)        | <a href="https://google.com">Detection Lab</a>|  https://github.com/RyanSalomon/Zeek_Lab
-| Network Traffic Monitoring and Attack Detection (Snort,Zeek,Wireshark) | <a href="https://github.com/RyanSalomon/Network-Analysis-Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
+| Network Traffic Monitoring and Attack Detection (Snort,Zeek,Wireshark) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -47,5 +47,6 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 
 
 ## Projects
-- <a href="https://github.com/RyanSalomon/Network-Analysis-Lab/tree/main">Network Analysis Lab</a>
+- <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a>
+- <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>
 - SOC Automation Project
