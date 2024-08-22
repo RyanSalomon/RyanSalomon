@@ -13,7 +13,7 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Splunk,Elastic) | <a href="https://google.com">Detection Lab</a>| 
 | Network Traffic Monitoring and Attack Detection (Snort,Zeek,Wireshark) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
-| Malware-C2-Detection-Toolkit (Wireshark, BRIM, NetworkMiner) | <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection-Toolkit</a>|
+| Malware-C2-Detection-Toolkit (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection-Toolkit</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
