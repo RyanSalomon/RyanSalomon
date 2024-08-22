@@ -50,4 +50,4 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 ## Projects
 - <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a>
 - <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection-Toolkit</a>
