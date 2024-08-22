@@ -12,7 +12,7 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Splunk,Elastic) | <a href="https://google.com">Detection Lab</a>| 
-| Network Traffic Monitoring and Attack Detection (Snort,Zeek,Wireshark) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
+| Network Traffic Monitoring and Attack Detection (Snort,Zeek,) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
 | Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection-Toolkit</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -26,6 +26,8 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Brim-000000?style=for-the-badge&logo=Brim&logoColor=white" />
+
 </div>
 
 ### Endpoint
