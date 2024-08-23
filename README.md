@@ -9,7 +9,7 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 My journey in computer science has ignited a strong passion for cybersecurity, driving me to pursue a career as a Tier 1 Analyst or a similar role within a Security Operations Center (SOC).
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Splunk,Elastic) | <a href="https://google.com">Detection Lab</a>| 
 | Network Traffic Monitoring and Attack Detection (Snort,Zeek,) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>|
