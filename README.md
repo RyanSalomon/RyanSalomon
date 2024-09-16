@@ -4,9 +4,6 @@
 
 As a Junior Cybersecurity Analyst, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools.
 
-## Objective
-
-My journey in computer science has ignited a strong passion for cybersecurity, driving me to pursue a career as a Tier 1 Analyst or a similar role within a Security Operations Center (SOC).
 ## Skills
 
 | Skill                                         | Associated Projects         |
