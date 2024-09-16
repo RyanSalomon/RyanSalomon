@@ -51,5 +51,5 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 - <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a>
 - <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>
 - <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a>
-- <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection</a>
+- <a href="https://github.com/RyanSalomon/Malware-C2-Detection">Malware-C2-Detection</a>
 - <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a>
