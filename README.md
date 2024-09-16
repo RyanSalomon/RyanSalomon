@@ -10,7 +10,7 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Splunk,Elastic) | <a href="https://github.com/RyanSalomon/ELK-Lab">ELK-Lab</a> |  
 | Network Traffic Monitoring and Attack Detection (Snort,Zeek) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a> |
-| Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a> , <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection</a> , <a href="https://github.com/RyanSalomon/Network-Threat-Detection">Network-Threat-Detection</a> |
+| Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a> , <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection</a> , <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -52,4 +52,4 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 - <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a>
 - <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a>
 - <a href="https://github.com/RyanSalomon/Malware-C2-Detection-Toolkit">Malware-C2-Detection</a>
-- <a href="https://github.com/RyanSalomon/Network-Threat-Detection">Network-Threat-Detection</a>
+- <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a>
