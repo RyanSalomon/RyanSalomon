@@ -8,8 +8,8 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis (Splunk,Elastic) | <a href="https://github.com/RyanSalomon/Splunk-Lab">Splunk-Lab</a> , <a href="https://github.com/RyanSalomon/ELK-Lab">ELK-Lab</a> |  
-| Network Traffic Monitoring and Attack Detection (Snort,Zeek) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a> |
+| SIEM Implementation and Log Analysis (Splunk, Elk) | <a href="https://github.com/RyanSalomon/Splunk-Lab">Splunk-Lab</a> , <a href="https://github.com/RyanSalomon/ELK-Lab">ELK-Lab</a> |  
+| Network Traffic Monitoring and Attack Detection (Snort, Zeek) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> , <a href="https://github.com/RyanSalomon/Zeek_Lab">Zeek-Lab</a> |
 | Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a> , <a href="https://github.com/RyanSalomon/Malware-C2-Detection">Malware-C2-Detection</a> , <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a> |
 | Security Automation with Shuffle SOAR         | Upcoming |
 | Incident Response Planning and Execution      | Upcoming |
@@ -29,13 +29,14 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?style=for-the-badge&logo=logstash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysinternals-005B99?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-005B99?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-0077B6?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
