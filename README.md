@@ -29,7 +29,6 @@ As a Junior Cybersecurity Analyst, I focus on protecting digital assets by ident
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?style=for-the-badge&logo=logstash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysinternals-005B99?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-005B99?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-0077B6?style=for-the-badge&logo=apache&logoColor=white" />
