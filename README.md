@@ -13,10 +13,9 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
 | Network Traffic Monitoring and Attack Detection (Snort) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> |
 | Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-C2-Detection">Malware-C2-Detection</a> , <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a> , <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a> |
 |OFFENSIVE SKILLS                                           |
-| Security Automation with Shuffle SOAR         | Upcoming |
-| Incident Response Planning and Execution      | Upcoming |
-| Case Management with TheHive                  | Upcoming |
-| Scripting and Automation for Threat Mitigation | Upcoming |
+| Vulnerability Assessment and Penetration Testing         | Upcoming |
+| Capture the Flag (CTF) Participation      | Upcoming |
+| Password Attacks                 | Upcoming |
 
 ## Tools
 
