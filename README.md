@@ -40,11 +40,18 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
     <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
+## Languages
+</div>
+     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+     <img src="https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-
+</div>
 
 ## Projects
 - <a href="https://github.com/RyanSalomon/Splunk-Lab">Splunk-Lab</a>
@@ -52,4 +59,4 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
 - <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a>
 - <a href="https://github.com/RyanSalomon/Malware-C2-Detection">Malware-C2-Detection</a>
 - <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a>
-- - <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a>
+- <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a>
