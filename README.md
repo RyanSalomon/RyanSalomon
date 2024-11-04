@@ -4,7 +4,7 @@
 
 As a Junior Cybersecurity Specialist, I focus on protecting digital assets by identifying and mitigating threats using foundational security techniques and tools.
 
-## Skills
+## Skills & Projects
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
