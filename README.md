@@ -8,9 +8,11 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
+| DEFENSIVE SKILLS                                                                     |
 | SIEM Implementation and Log Analysis (Splunk, Elk) | <a href="https://github.com/RyanSalomon/Splunk-Lab">Splunk-Lab</a> , <a href="https://github.com/RyanSalomon/ELK-Lab">ELK-Lab</a> |  
 | Network Traffic Monitoring and Attack Detection (Snort) | <a href="https://github.com/RyanSalomon/Snort_Lab/tree/main">Snort-Lab</a> |
 | Network Alert Monitoring (Wireshark, BRIM, NetworkMiner, VirusTotal) | <a href="https://github.com/RyanSalomon/Malware-C2-Detection">Malware-C2-Detection</a> , <a href="https://github.com/RyanSalomon/Network-Trojan-Detection">Network-Trojan-Detection</a> , <a href="https://github.com/RyanSalomon/Malware-Analysis">Malware-Analysis</a> |
+|OFFENSIVE SKILLS                                           |
 | Security Automation with Shuffle SOAR         | Upcoming |
 | Incident Response Planning and Execution      | Upcoming |
 | Case Management with TheHive                  | Upcoming |
