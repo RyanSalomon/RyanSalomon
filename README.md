@@ -18,26 +18,26 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
 
 ## Tools
 
-### Network
+### Defensive Security
 <div>
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Brim-000000?style=for-the-badge&logo=Brim&logoColor=white" />
     <img src="https://img.shields.io/badge/NetworkMiner-8B4513?style=for-the-badge&logo=network&logoColor=white" alt="NetworkMiner" />
-</div>
-
-### Endpoint
-<div>
     <img src="https://img.shields.io/badge/-Sysinternals-005B99?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-005B99?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-0077B6?style=for-the-badge&logo=apache&logoColor=white" />
-</div>
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Offensive Security
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
 ## Certifications
