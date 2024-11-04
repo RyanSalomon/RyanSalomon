@@ -1,4 +1,4 @@
-# Hello, I'm Ryan
+# Ryan Salomon
 <a href="https://linkedin.com/in/ryan-salomon22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -51,6 +51,7 @@ As a Junior Cybersecurity Specialist, I focus on protecting digital assets by id
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-%23397B29?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 
 ## Projects
